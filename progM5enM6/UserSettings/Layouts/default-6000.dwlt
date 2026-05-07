@@ -245,8 +245,8 @@ MonoBehaviour:
     y: 0
     width: 553.6
     height: 739.2
-  m_MinSize: {x: 202, y: 226}
-  m_MaxSize: {x: 4002, y: 4026}
+  m_MinSize: {x: 200, y: 200}
+  m_MaxSize: {x: 4000, y: 4000}
   m_ActualView: {fileID: 14}
   m_Panes:
   - {fileID: 14}
@@ -587,7 +587,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Game
-    m_Image: {fileID: 4621777727084837110, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -6423792434712278376, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
     m_TextWithWhitespace: "Game\u200B"
   m_Pos:
@@ -639,8 +639,8 @@ MonoBehaviour:
     m_VAllowExceedBaseRangeMin: 1
     m_VAllowExceedBaseRangeMax: 1
     m_ScaleWithWindow: 0
-    m_HSlider: 0
-    m_VSlider: 0
+    m_HSlider: 1
+    m_VSlider: 1
     m_IgnoreScrollWheelUntilClicked: 0
     m_EnableMouseInput: 1
     m_EnableSliderZoomHorizontal: 0
@@ -653,20 +653,20 @@ MonoBehaviour:
       y: 21
       width: 551.6
       height: 692.2
-    m_Scale: {x: 0.9999999, y: 0.99999994}
-    m_Translation: {x: 275.8, y: 346.1}
+    m_Scale: {x: 1.0609, y: 1.0609}
+    m_Translation: {x: 259.58572, y: 343.21652}
     m_MarginLeft: 0
     m_MarginRight: 0
     m_MarginTop: 0
     m_MarginBottom: 0
     m_LastShownAreaInsideMargins:
       serializedVersion: 2
-      x: -275.80002
-      y: -346.10004
-      width: 551.60004
-      height: 692.2001
+      x: -244.68445
+      y: -323.5145
+      width: 519.9359
+      height: 652.4649
     m_MinimalGUI: 1
-  m_defaultScale: 0.9999999
+  m_defaultScale: 1
   m_LastWindowPixelSize: {x: 551.6, y: 713.2}
   m_ClearInEditMode: 1
   m_NoCameraWarning: 1
@@ -690,7 +690,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Hierarchy
-    m_Image: {fileID: -3734745235275155857, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: 7966133145522015247, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
     m_TextWithWhitespace: "Hierarchy\u200B"
   m_Pos:
@@ -716,15 +716,31 @@ MonoBehaviour:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
       m_SelectedIDs:
-      - m_Data: 45820
+      - m_Data: 46308
       m_LastClickedID:
-        m_Data: 45820
+        m_Data: 0
       m_ExpandedIDs:
+      - m_Data: -13330
+      - m_Data: -13132
+      - m_Data: -12424
+      - m_Data: -11154
+      - m_Data: -10910
+      - m_Data: -10590
+      - m_Data: -10362
+      - m_Data: -9970
+      - m_Data: -9772
+      - m_Data: -8706
+      - m_Data: -6760
+      - m_Data: -6534
+      - m_Data: -3788
+      - m_Data: -3414
+      - m_Data: -3224
       - m_Data: -1296
+      - m_Data: 46632
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: 
-        m_OriginalName: 
+        m_Name: speler
+        m_OriginalName: speler
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
@@ -732,10 +748,10 @@ MonoBehaviour:
           width: 0
           height: 0
         m_UserData:
-          m_Data: 0
+          m_Data: 56158
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 11
+        m_OriginalEventType: 0
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 8}
@@ -762,7 +778,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Scene
-    m_Image: {fileID: 8634526014445323508, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: 2593428753322112591, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
     m_TextWithWhitespace: "Scene\u200B"
   m_Pos:
@@ -1173,9 +1189,9 @@ MonoBehaviour:
   m_AudioPlay: 0
   m_DebugDrawModesUseInteractiveLightBakingData: 0
   m_Position:
-    m_Target: {x: 1.63681, y: -0, z: -2.35683}
+    m_Target: {x: 1.63681, y: 0, z: -2.35683}
     speed: 2
-    m_Value: {x: 1.6368151, y: -0.00000073258855, z: -2.3568377}
+    m_Value: {x: 1.63681, y: 0, z: -2.35683}
   m_RenderMode: 0
   m_CameraMode:
     drawMode: 0
@@ -1223,11 +1239,11 @@ MonoBehaviour:
   m_Rotation:
     m_Target: {x: 0.01738636, y: 0.9510172, z: -0.051448997, w: 0.3059461}
     speed: 2
-    m_Value: {x: 0.01738636, y: 0.9510172, z: -0.051449, w: 0.3059461}
+    m_Value: {x: 0.017377794, y: 0.95054865, z: -0.05142365, w: 0.30579537}
   m_Size:
     m_Target: 10
     speed: 2
-    m_Value: 10.000005
+    m_Value: 10
   m_Ortho:
     m_Target: 0
     speed: 2
@@ -1277,7 +1293,7 @@ MonoBehaviour:
   m_MaxSize: {x: 10000, y: 10000}
   m_TitleContent:
     m_Text: Project
-    m_Image: {fileID: -5179483145760003458, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -5467254957812901981, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
     m_TextWithWhitespace: "Project\u200B"
   m_Pos:
@@ -1310,7 +1326,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets
+    - Assets/funny afbeeldingen
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1320,18 +1336,18 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets
+  - Assets/funny afbeeldingen
   m_LastFoldersGridSize: -1
-  m_LastProjectPath: C:\gitprogM5enM6\progM5enM6
+  m_LastProjectPath: C:\gitprogM5enM6\gitm5m6\progM5enM6
   m_LockTracker:
     m_IsLocked: 0
   m_LastLocalAssetsSearchArea: 1
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 45894
+    - m_Data: 46190
     m_LastClickedID:
-      m_Data: 45894
+      m_Data: 46190
     m_ExpandedIDs:
     - m_Data: 0
     - m_Data: 45894
@@ -1397,14 +1413,14 @@ MonoBehaviour:
       m_ResourceFile: 
   m_ListAreaState:
     m_SelectedInstanceIDs:
-    - m_Data: 45820
-    m_LastClickedInstanceID: 45820
+    - m_Data: 46308
+    m_LastClickedInstanceID: 46308
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: 
-      m_OriginalName: 
+      m_Name: m5 opdracht 2
+      m_OriginalName: m5 opdracht 2
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
@@ -1412,10 +1428,10 @@ MonoBehaviour:
         width: 0
         height: 0
       m_UserData:
-        m_Data: 0
+        m_Data: 46268
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 11
+      m_OriginalEventType: 0
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 11}
@@ -1446,7 +1462,7 @@ MonoBehaviour:
   m_MaxSize: {x: 4000, y: 4000}
   m_TitleContent:
     m_Text: Console
-    m_Image: {fileID: -4950941429401207979, guid: 0000000000000000d000000000000000, type: 0}
+    m_Image: {fileID: -4327648978806127646, guid: 0000000000000000d000000000000000, type: 0}
     m_Tooltip: 
     m_TextWithWhitespace: "Console\u200B"
   m_Pos:
