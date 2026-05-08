@@ -44,7 +44,9 @@ het was een beetje laat laat toen ik dit maakte :P
 
 [script](/progM5enM6/Assets/Scripts%20M5/ShootFromCamera.cs)
 
-![gif](/progM5enM6/Assets/Gifs/five.gif)
+![gif](/progM5enM6/Assets/Gifs/six.gif)
+
+_________________________________________________________________
 
 # m6 dingetjes
 
@@ -78,7 +80,6 @@ het was een beetje laat laat toen ik dit maakte :P
 ![gif](/progM5enM6/Assets/Gifs/fivefive.gif)
 
 _________________________________________________________________
-
 
 # epic
 
