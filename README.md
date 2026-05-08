@@ -2,9 +2,6 @@
 
 
 
-_________________________________________________________________
-
-
 # m5 dingetjes
 
 ##  1
@@ -79,6 +76,9 @@ het was een beetje laat laat toen ik dit maakte :P
 [script](/progM5enM6/Assets/Script%20M6/BattleManager.cs)
 
 ![gif](/progM5enM6/Assets/Gifs/fivefive.gif)
+
+_________________________________________________________________
+
 
 # epic
 
