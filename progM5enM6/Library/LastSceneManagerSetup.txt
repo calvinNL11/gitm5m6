@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/M6  opdracht 5.unity
+- path: Assets/Scenes/M5 opdrachten 5.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

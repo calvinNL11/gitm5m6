@@ -715,32 +715,16 @@ MonoBehaviour:
   m_SceneHierarchy:
     m_TreeViewState:
       scrollPos: {x: 0, y: 0}
-      m_SelectedIDs:
-      - m_Data: 46308
+      m_SelectedIDs: []
       m_LastClickedID:
         m_Data: 0
       m_ExpandedIDs:
-      - m_Data: -13330
-      - m_Data: -13132
-      - m_Data: -12424
-      - m_Data: -11154
-      - m_Data: -10910
-      - m_Data: -10590
-      - m_Data: -10362
-      - m_Data: -9970
-      - m_Data: -9772
-      - m_Data: -8706
-      - m_Data: -6760
-      - m_Data: -6534
-      - m_Data: -3788
-      - m_Data: -3414
-      - m_Data: -3224
+      - m_Data: -2674
       - m_Data: -1296
-      - m_Data: 46632
       m_RenameOverlay:
         m_UserAcceptedRename: 0
-        m_Name: speler
-        m_OriginalName: speler
+        m_Name: 
+        m_OriginalName: 
         m_EditFieldRect:
           serializedVersion: 2
           x: 0
@@ -748,10 +732,10 @@ MonoBehaviour:
           width: 0
           height: 0
         m_UserData:
-          m_Data: 56158
+          m_Data: 0
         m_IsWaitingForDelay: 0
         m_IsRenaming: 0
-        m_OriginalEventType: 0
+        m_OriginalEventType: 11
         m_IsRenamingFilename: 0
         m_TrimLeadingAndTrailingWhitespace: 0
         m_ClientGUIView: {fileID: 8}
@@ -1326,7 +1310,7 @@ MonoBehaviour:
     m_SkipHidden: 0
     m_SearchArea: 1
     m_Folders:
-    - Assets/funny afbeeldingen
+    - Assets
     m_Globs: []
     m_ProductIds: 
     m_AnyWithAssetOrigin: 0
@@ -1336,7 +1320,7 @@ MonoBehaviour:
   m_ViewMode: 1
   m_StartGridSize: 64
   m_LastFolders:
-  - Assets/funny afbeeldingen
+  - Assets
   m_LastFoldersGridSize: -1
   m_LastProjectPath: C:\gitprogM5enM6\gitm5m6\progM5enM6
   m_LockTracker:
@@ -1345,12 +1329,12 @@ MonoBehaviour:
   m_FolderTreeState:
     scrollPos: {x: 0, y: 0}
     m_SelectedIDs:
-    - m_Data: 46190
+    - m_Data: 45874
     m_LastClickedID:
-      m_Data: 46190
+      m_Data: 45874
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 45894
+    - m_Data: 45874
     - m_Data: 1000000000
     - m_Data: 2147483647
     m_RenameOverlay:
@@ -1385,7 +1369,7 @@ MonoBehaviour:
       m_Data: 0
     m_ExpandedIDs:
     - m_Data: 0
-    - m_Data: 45894
+    - m_Data: 45874
     m_RenameOverlay:
       m_UserAcceptedRename: 0
       m_Name: 
@@ -1412,15 +1396,14 @@ MonoBehaviour:
       m_Icon: {fileID: 0}
       m_ResourceFile: 
   m_ListAreaState:
-    m_SelectedInstanceIDs:
-    - m_Data: 46308
-    m_LastClickedInstanceID: 46308
+    m_SelectedInstanceIDs: []
+    m_LastClickedInstanceID: 0
     m_HadKeyboardFocusLastEvent: 1
     m_ExpandedInstanceIDs: []
     m_RenameOverlay:
       m_UserAcceptedRename: 0
-      m_Name: m5 opdracht 2
-      m_OriginalName: m5 opdracht 2
+      m_Name: 
+      m_OriginalName: 
       m_EditFieldRect:
         serializedVersion: 2
         x: 0
@@ -1428,10 +1411,10 @@ MonoBehaviour:
         width: 0
         height: 0
       m_UserData:
-        m_Data: 46268
+        m_Data: 0
       m_IsWaitingForDelay: 0
       m_IsRenaming: 0
-      m_OriginalEventType: 0
+      m_OriginalEventType: 11
       m_IsRenamingFilename: 1
       m_TrimLeadingAndTrailingWhitespace: 0
       m_ClientGUIView: {fileID: 11}
@@ -1467,10 +1450,10 @@ MonoBehaviour:
     m_TextWithWhitespace: "Console\u200B"
   m_Pos:
     serializedVersion: 2
-    x: 0
-    y: 632.8
-    width: 1525.4
-    height: 425.20007
+    x: 2048
+    y: 818
+    width: 1906.2
+    height: 575.60004
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0

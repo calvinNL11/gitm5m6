@@ -490,12 +490,6 @@
 "Assets/Scripts M5/ShootFromCamera.cs"
 "Assets/Scripts M5/ShootFromCamera1.cs"
 "Assets/Scripts M5/TowerSpawner.cs"
-"Assets/Scripts van space dingen/Itemship.cs"
-"Assets/Scripts van space dingen/LaserBehaviour.cs"
-"Assets/Scripts van space dingen/Movement.cs"
-"Assets/Scripts van space dingen/ShipBehaviour.cs"
-"Assets/Scripts van space dingen/Shooting.cs"
-"Assets/Scripts van space dingen/UI.cs"
 "Assets/TutorialInfo/Scripts/Readme.cs"
 -langversion:9.0
 /deterministic
